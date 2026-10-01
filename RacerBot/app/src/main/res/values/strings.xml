@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Racer AutoPilot</string>
+    <string name="a11y_description">Dùng để thực hiện thao tác vuốt trên màn hình game theo quyết định của bot, và quét văn bản trên màn hình để dừng bot khi xuất hiện xác minh/CAPTCHA. Không thu thập hay gửi dữ liệu đi đâu.</string>
+</resources>
